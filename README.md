@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen or Steven
 - 👀 I’m interested in Game Programming and Art
-- 🐦‍⬛ Part of the Feather Ones Hytale Mod Dev Team!
+- 🐦‍⬛ Part of The Feathered Ones Hytale Mod Dev Team!
 - 🌱 Currently learning Java and C#
 - 📫 How to reach me at https://bsky.app/profile/st3phenbox.itch.io
 - 😄 Pronouns: He/Him
