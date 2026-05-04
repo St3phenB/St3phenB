@@ -3,4 +3,3 @@
 - 🐦‍⬛ Part of The Feathered Ones Hytale Mod Dev Team!
 - 🌱 Currently learning Java and C#
 - 😄 Pronouns: He/Him
-- 🗒️ Currently learning Java
